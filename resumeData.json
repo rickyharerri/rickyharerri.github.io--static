@@ -68,11 +68,18 @@
     ],
     "work":[
       {
-        "company":"Freelancer",
-        "isPresent":true,
-        "title":"Full Stack Engineer | IT Consultant | Entrepreneur",
-        "years":"May 2020 - Till Date",
+        "company":"Zouk Design (Remote)",
+        "isPresent":false,
+        "title":"Full Stack Developer",
+        "years":"August 2021 - February 2022",
         "description":"Tech Stack -> React JS, Electron JS, AWS, Python, PHP, Laravel, Lumen, SQL, RabbitMQ, Swagger, Docker, Kubernetes, Angular, HTML5, SCSS, Bootstrap, Stripe Payments, Elasticsearch, Wordpress, Confluence, Meister Task, Git. Built Web Services and amazing user-interfaces. Key player in all phases of the software development lifecycle (SDLC) for multiple products. Collaborated closely with other team members to plan, design and develop robust software solutions. Wrote maintainable, extensible and well documented code in an agile environment. Improved existing code using SOLID design principles."
+      },
+      {
+        "company":"Bo-we ApS (Remote)",
+        "isPresent":false,
+        "title":"Full Stack Developer",
+        "years":"May 2020 - July 2021",
+        "description":"Project URL -> https://leagues.gg/ | Tech Stack -> ReactJS, NodeJS, Git, Steam API, GCP, Elastic beanstalk, AWS Amplify, MongoDB. Built Web Services and amazing user-interfaces. Key player in all phases of the software development lifecycle (SDLC) for multiple products. Collaborated closely with other team members to plan, design and develop robust software solutions. Wrote maintainable, extensible and well documented code in an agile environment. Improved existing code using SOLID design principles."
       },
       {
         "company":"Krescent IT Labs Pvt. Ltd.",
