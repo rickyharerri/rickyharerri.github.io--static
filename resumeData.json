@@ -9,10 +9,10 @@
     "email": "ricky_4567@yahoo.co.in",
     "phone": "+1 (647) 978-9947",
     "address":{
-      "street":"4 Minister Rd.",
-      "city":"Brampton",
+      "street":"33 Helendale Ave.",
+      "city":"Toronto",
       "state":"Ontario",
-      "zip": "L6P 0J9",
+      "zip": "M4R 0A4",
       "country": "Canada"
     },
     "website": "http://www.rickyharerri.com",
@@ -67,6 +67,13 @@
       }
     ],
     "work":[
+      {
+        "company":"CGI Inc.",
+        "isPresent":true,
+        "title":"IT Consultant",
+        "years":"April 2022 - Present",
+        "description":"Tech Stack -> Vue JS, Vuitify, Open Shift, SSO, Form.io, Python, Swagger, Docker, Kubernetes, HTML5, SCSS, Bootstrap, Stripe Payments, Elasticsearch, Wordpress, Confluence, Meister Task, Git. Built Web Services and amazing user-interfaces. Key player in all phases of the software development lifecycle (SDLC) for multiple products. Collaborated closely with other team members to plan, design and develop robust software solutions. Wrote maintainable, extensible and well documented code in an agile environment. Improved existing code using SOLID design principles."
+      },
       {
         "company":"Zouk Design (Remote)",
         "isPresent":false,
